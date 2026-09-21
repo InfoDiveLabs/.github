@@ -15,6 +15,6 @@ InfoDive Labs is an engineering studio. We take systems the rest of the way: AI-
 
 **What we work on:** AI and machine learning, cybersecurity, cloud, software development, POC to production, startup engineering, blockchain, web3 and DeFi.
 
-Most of our work is under NDA, so the code here is the part we can show. For everything else: [infodivelabs.com](https://www.infodivelabs.com) · [contact@infodivelabs.com](mailto:contact@infodivelabs.com)
+Most of our client work is under NDA. Case studies and engineering notes live at [infodivelabs.com](https://www.infodivelabs.com); briefs go to [contact@infodivelabs.com](mailto:contact@infodivelabs.com).
 
 <sub>India HQ, IST (UTC+5:30). Production work, not slide decks.</sub>
