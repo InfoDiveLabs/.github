@@ -13,6 +13,8 @@ InfoDive Labs is an engineering studio. We take systems the rest of the way: AI-
 - **If we built it, we're on the pager.** Production ownership, not a handover document.
 - **Senior-only.** No bench, no juniors learning on your time.
 
+**Open source:** [wontfit](https://github.com/InfoDiveLabs/wontfit) previews your running web app at phone and tablet widths side by side, names the element that overflows, and fails the build when a layout breaks.
+
 **What we work on:** AI and machine learning, cybersecurity, cloud, software development, POC to production, startup engineering, blockchain, web3 and DeFi.
 
 Most of our client work is under NDA. Case studies and engineering notes live at [infodivelabs.com](https://www.infodivelabs.com); briefs go to [contact@infodivelabs.com](mailto:contact@infodivelabs.com).
