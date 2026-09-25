@@ -13,7 +13,10 @@ InfoDive Labs is an engineering studio. We take systems the rest of the way: AI-
 - **If we built it, we're on the pager.** Production ownership, not a handover document.
 - **Senior-only.** No bench, no juniors learning on your time.
 
-**Open source:** [wontfit](https://github.com/InfoDiveLabs/wontfit) previews your running web app at phone and tablet widths side by side, names the element that overflows, and fails the build when a layout breaks.
+**Open source:**
+
+- [**braid**](https://github.com/InfoDiveLabs/braid) is a download manager that splits one file across every network path you have: Wi-Fi, Ethernet and your phone's 5G at once, every chunk verified. macOS, Windows, Linux. [**braid-android**](https://github.com/InfoDiveLabs/braid-android) lends your phone's mobile data to it as an extra path; pair by scanning a code.
+- [**wontfit**](https://github.com/InfoDiveLabs/wontfit) previews your running web app at phone and tablet widths side by side, names the element that overflows, and fails the build when a layout breaks.
 
 **What we work on:** AI and machine learning, cybersecurity, cloud, software development, POC to production, startup engineering, blockchain, web3 and DeFi.
 
